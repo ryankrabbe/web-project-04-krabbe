@@ -1,15 +1,27 @@
-# Requests, JSON, and basic NLP with spaCy
+### **P4: Employ Requests, JSON, NLP & Engage**
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+## **Project Overview**
+In this project data analysis was performed on song lyrics that were fetched using a web-hosted API and converted into JSON files.
 
-## Rubric
+## **Songs Used**
+Birds of a Feather by Billie Eilish
+Apple by Charli xcx
+Umbrella by Rihanna
+Taste by Sabrina Carpenter
 
-* (Question 1) Lyrics printed: 1 pt
-* (Question 1) File created and submitted with notebook: 1 pt
-* (Question 2) Correct polarity reported: 1 pt
-* (Question 2) Question answered thoughtfully: 1 pt
-* (Question 3) Function defined as specified: 1 pt
-* (Question 3) Song lyrics retrieved and stored in separate files (0.5 pts/song): 2 pts
-* (Question 4) Polarity scores printed (with appropriate label containing song title, .25 pts/song): 1 pt
-* (Question 4) Questions answered thoughtfully: 2 pts
+## **Overview of Tasks Performed**
+* Cloned project down to my local machine
+* Activated venv virtual environment
+* Added venv to gitignore file
+* Completed the tasks described in the assignment
+* Exported my notebook as HTML
+* Updated README file
+* Saved changes
+* Pushed my commit up to my Github repo
+
+## **Tools and Libraries**
+lyrics.ovh API: Web-hosted API used to fetch song lyrics.
+
+spaCy: spaCy is a Natural Languge Processing library used to peform NLP tasks and data analysis.
+
+SpacyTextBlob: SpacyTextBlob is an extension of spaCy used to perform sentiment analysis.
